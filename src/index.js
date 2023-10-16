@@ -1,4 +1,4 @@
-import { hello } from "./test"
+import { test } from "./test.js"
 
 test()
 
